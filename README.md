@@ -1,2 +1,2 @@
 # shell
-system application script
+python shell system application script
